@@ -1,4 +1,4 @@
-package com.haohui.IteratorPattern.entity;
+package com.haohui.Iterator.entity;
 
 /**
  * @author Haohui

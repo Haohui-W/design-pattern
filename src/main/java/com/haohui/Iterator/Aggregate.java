@@ -1,4 +1,4 @@
-package com.haohui.IteratorPattern;
+package com.haohui.Iterator;
 
 /**
  * @author Haohui

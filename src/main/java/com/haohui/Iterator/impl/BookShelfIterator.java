@@ -1,7 +1,7 @@
-package com.haohui.IteratorPattern.impl;
+package com.haohui.Iterator.impl;
 
-import com.haohui.IteratorPattern.entity.Book;
-import com.haohui.IteratorPattern.Iterator;
+import com.haohui.Iterator.entity.Book;
+import com.haohui.Iterator.Iterator;
 
 /**
  * @author Haohui

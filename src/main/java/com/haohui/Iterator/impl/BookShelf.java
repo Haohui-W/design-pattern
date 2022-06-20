@@ -1,8 +1,8 @@
-package com.haohui.IteratorPattern.impl;
+package com.haohui.Iterator.impl;
 
-import com.haohui.IteratorPattern.Aggregate;
-import com.haohui.IteratorPattern.Iterator;
-import com.haohui.IteratorPattern.entity.Book;
+import com.haohui.Iterator.Aggregate;
+import com.haohui.Iterator.Iterator;
+import com.haohui.Iterator.entity.Book;
 
 import java.util.ArrayList;
 import java.util.List;
