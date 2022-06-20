@@ -1,4 +1,4 @@
-package com.haohui.AdapterPattern;
+package com.haohui.Adapter;
 
 import java.io.IOException;
 
