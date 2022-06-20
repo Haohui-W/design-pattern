@@ -1,6 +1,6 @@
-package com.haohui.BuilderPattern.builder.impl;
+package com.haohui.Builder.builder.impl;
 
-import com.haohui.BuilderPattern.builder.Builder;
+import com.haohui.Builder.builder.Builder;
 
 import java.io.PrintWriter;
 

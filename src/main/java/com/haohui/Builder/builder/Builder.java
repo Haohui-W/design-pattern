@@ -1,4 +1,4 @@
-package com.haohui.BuilderPattern.builder;
+package com.haohui.Builder.builder;
 
 /**
  * @author Haohui

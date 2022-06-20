@@ -1,6 +1,6 @@
-package com.haohui.BuilderPattern;
+package com.haohui.Builder;
 
-import com.haohui.BuilderPattern.builder.Builder;
+import com.haohui.Builder.builder.Builder;
 
 public class Director {
     private final Builder builder;

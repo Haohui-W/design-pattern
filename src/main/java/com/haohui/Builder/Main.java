@@ -1,6 +1,6 @@
-package com.haohui.BuilderPattern;
+package com.haohui.Builder;
 
-import com.haohui.BuilderPattern.builder.impl.TextBuilder;
+import com.haohui.Builder.builder.impl.TextBuilder;
 
 /**
  * @author Haohui
