@@ -1,4 +1,4 @@
-package com.haohui.SingletonPattern;
+package com.haohui.Singleton;
 
 public class Triple {
     static final private Triple[] TRIPLES=new Triple[]{

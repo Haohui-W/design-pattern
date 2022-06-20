@@ -1,4 +1,4 @@
-package com.haohui.SingletonPattern;
+package com.haohui.Singleton;
 
 public class TicketMaker {
     static final private TicketMaker TICKET_MAKER=new TicketMaker();

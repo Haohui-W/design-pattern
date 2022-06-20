@@ -1,4 +1,4 @@
-package com.haohui.SingletonPattern;
+package com.haohui.Singleton;
 
 public class Singleton {
     private String message;
